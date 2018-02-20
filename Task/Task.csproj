@@ -110,6 +110,7 @@
       <DependentUpon>TaskResource.resx</DependentUpon>
     </Compile>
     <Compile Include="Test\Base.cs" />
+    <Compile Include="Test\ContactUs.cs" />
     <Compile Include="Test\Sprint.cs" />
   </ItemGroup>
   <ItemGroup>
